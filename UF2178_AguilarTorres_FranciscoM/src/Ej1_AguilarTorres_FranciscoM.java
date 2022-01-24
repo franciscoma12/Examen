@@ -24,8 +24,8 @@ public class Ej1_AguilarTorres_FranciscoM {
 		diagnostico = "Obesidad mórbida";
 
 		System.out.printf("El paciente de %.2f kg y %.2f m de altura"
-				+ ", tiene un IMC de %.2f y"
-		+ "tiene un diagnóstico de %s"
+				+ ", tiene un IMC de %.2f y "
+		+ " tiene un diagnóstico de %s "
 				,peso,altura,imc,diagnostico);
 		}
 
